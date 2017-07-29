@@ -1,0 +1,22 @@
+#greetingCardMain {
+	display: block;
+}
+
+#greetingCard {
+	border: 2px solid red;
+	padding: 3%;
+	height: 700px;
+	width: 500px;
+}
+
+h1 {
+	color: hotpink;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+h3 {
+	color: red;
+	font-size: 1em;
+	text-align: center;
+}
