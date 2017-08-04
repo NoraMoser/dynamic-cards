@@ -1,22 +1,33 @@
-#greetingCardMain {
+/*#greetingCardMain {
 	display: block;
 }
 
 #greetingCard {
-	border: 2px solid red;
-	padding: 3%;
-	height: 700px;
-	width: 500px;
+	border: 2px solid deeppink;
+	padding: 1%;
+	height: 400px;
+	width: 300px;
 }
 
 h1 {
-	color: hotpink;
+	color: goldenrod;
 	font-size: 2.5em;
 	text-align: center;
 }
 
 h3 {
-	color: red;
+	color: navy;
 	font-size: 1em;
+	text-align: center;
+}*/
+
+#card {
+	display: block;
+	border: 2px solid hotpink;
+	height: 300px;
+	width: 250px;
+}
+
+#message {
 	text-align: center;
 }
